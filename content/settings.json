@@ -6,20 +6,20 @@
     "bootswatch": "_",
     "custom": "_"
   },
-  "bg_color": "#ffffff",
+  "bg_color": "#eddfdf",
   "logo": "/img/uploads/design-sem-nome.png",
   "name": "Sensações Sex Shop",
-  "short_name": "sensacoessex",
+  "short_name": "Sensações Sex Shop",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
   "font_family": "_",
-  "favicon": "/img/uploads/favicon.png",
+  "favicon": "/img/uploads/design-sem-nome.png",
   "icons_font": "_",
   "country_code": "BR",
   "secondary_color": "#131313",
   "icon": "/img/uploads/design-sem-nome.png",
   "store_id": 2602,
-  "description": "sensacoessex",
-  "large_icon": "/img/large-icon.png"
+  "description": "Sensações Sex Shop é uma loja virtual de cosméticos sensuais com Escritório localizado no bairro Palmeiras/Ibirité-MG.\nProdutos eróticos selecionados para atender ao seu momento de prazer!\nSeu sexy shop na palma da mão com total sigilo, discrição e entrega rápida!",
+  "large_icon": "/img/uploads/design-sem-nome.png"
 }
