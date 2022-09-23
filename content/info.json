@@ -1,12 +1,12 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregas para Ibirité e região no mesmo dia! Entregamos para todo o Brasil com embalagens discretas!",
+    "text": "",
     "title": "Receba em até 4h"
   },
   "installments": {
     "show": true,
-    "text": "Parcele até 12x",
+    "text": "",
     "title": "Parcele até 12x"
   },
   "exchange": {
