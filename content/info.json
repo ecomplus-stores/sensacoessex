@@ -1,18 +1,20 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "Entregas para Ibirité e região no mesmo dia! Entregamos para todo o Brasil com embalagens discretas!",
+    "title": "Receba em até 4h"
   },
   "installments": {
     "show": true,
-    "text": "Parcele sem juros"
+    "text": "Parcele até 12x",
+    "title": "Parcele até 12x"
   },
   "exchange": {
-    "show": true,
-    "text": "Não gostou? A primeira troca é gratuita"
+    "show": false,
+    "text": ""
   },
   "promo": {
-    "show": true,
-    "text": "Diferentes promoções ao longo do ano!"
+    "show": false,
+    "text": ""
   }
 }
