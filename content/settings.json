@@ -3,11 +3,11 @@
   "currency_symbol": "R$",
   "primary_color": "#ff0000",
   "theme": {
-    "bootswatch": "_",
+    "bootswatch": "minty",
     "custom": "_"
   },
   "bg_color": "#eddfdf",
-  "logo": "/img/uploads/design-sem-nome.png",
+  "logo": "/img/uploads/logo-sensacoes-1.png",
   "name": "Sensações Sex Shop",
   "short_name": "Sensações Sex Shop",
   "lang": "pt_br",
