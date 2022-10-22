@@ -49,6 +49,10 @@
       "page": 1,
       "collection_id": "60d1139bd24de4526faab0fe:categories:MASTURBADORES:/masturbadores",
       "sort": "highest_price"
+    },
+    {
+      "type": "blog",
+      "enabled": true
     }
   ]
 }
