@@ -26,7 +26,7 @@
       "sort": "news",
       "title": "",
       "headless": false,
-      "limit": 12,
+      "limit": 14,
       "page": 1
     },
     {
