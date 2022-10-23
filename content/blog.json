@@ -8,7 +8,9 @@
       "enabled": true
     },
     {
-      "type": "page-title"
+      "type": "page-title",
+      "title": "Blog",
+      "description": "Conheça mais sobre a importância dos produtos eróticos em sua vida através do nosso Blog."
     },
     {
       "type": "blog",
