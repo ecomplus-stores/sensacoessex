@@ -5,13 +5,13 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "full_width": false,
+      "full_width": true,
       "slides": [
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/copia-de-frete-gratis-2-1-.png",
-          "link": "https://sensacoessex.com.br/pages/faq"
+          "img": "/img/uploads/banner-loja-sensacoes-7-.png",
+          "mobile_img": "/img/uploads/copia-de-banner-loja-sensacoes-400-300-px-1-.png"
         }
       ]
     },
