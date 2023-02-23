@@ -4,13 +4,13 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 9000,
+      "autoplay": 11000,
       "full_width": true,
       "slides": [
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-loja-sensacoes-2-.png"
+          "img": "/img/uploads/banner-loja-sensacoes-2-1-.webp"
         }
       ]
     },
