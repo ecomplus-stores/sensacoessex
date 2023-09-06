@@ -1,11 +1,11 @@
 {
   "shipping": {
-    "show": true,
+    "show": false,
     "text": "",
     "title": "Receba em até 4h"
   },
   "installments": {
-    "show": true,
+    "show": false,
     "text": "",
     "title": "Parcele até 12x"
   },
