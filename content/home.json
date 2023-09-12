@@ -3,6 +3,10 @@
   "meta_description": "Seu sexshop na palma da mão! Entrega rápida e discreta!",
   "sections": [
     {
+      "type": "blog",
+      "enabled": true
+    },
+    {
       "type": "banner-slider",
       "autoplay": 11000,
       "full_width": true,
@@ -46,16 +50,16 @@
       "sort": "highest_price"
     },
     {
-      "type": "blog",
-      "enabled": true
-    },
-    {
       "type": "breadcrumbs",
       "enabled": true
     },
     {
       "type": "custom-html",
       "html": "<script src=\"https://www.mercadopago.com/v2/security.js\" view=\"home\"></script>"
+    },
+    {
+      "type": "blog",
+      "enabled": true
     }
   ]
 }
