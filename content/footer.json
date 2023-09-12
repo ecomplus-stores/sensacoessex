@@ -1,7 +1,7 @@
 {
   "description": {
     "title": "Sexy Shop",
-    "text": "Sensações Sex Shop é uma loja virtual de cosméticos sensuais com Escritório localizado no bairro Palmeiras/Ibirité-MG. Produtos eróticos selecionados para atender ao seu momento de prazer! Seu sexy shop na palma da mão com total sigilo, discrição e entrega rápida!"
+    "text": "Sensações Sex Shop é uma loja virtual de cosméticos sensuais desde 2015 com Escritório localizado no bairro Palmeiras/Ibirité-MG. Produtos eróticos selecionados para atender ao seu momento de prazer! Seu sexy shop na palma da mão com total sigilo, discrição e entrega rápida! Todos os nossos produtos são a pronta entrega (já estão no estoque) para que você sinta Sensações incríveis sempre que precisar! Embalagens sem referência a sexshop."
   },
   "links_1": {
     "list_pages": true,
@@ -27,7 +27,7 @@
     }
   ],
   "payment_methods": {
-    "bb": true,
+    "bb": false,
     "visa": true,
     "boleto": false,
     "aura": false,
@@ -35,12 +35,13 @@
     "elo": true,
     "hipercard": false,
     "hsbc": false,
-    "bradesco": true,
+    "bradesco": false,
     "santander": false,
     "mastercard": true,
     "citibank": false,
     "mais": false,
-    "itau": true
+    "pix": true,
+    "itau": false
   },
   "credits": ""
 }
