@@ -5,7 +5,7 @@
   "sections": [
     {
       "type": "blog",
-      "enabled": true
+      "enabled": false
     },
     {
       "type": "breadcrumbs",
