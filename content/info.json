@@ -5,7 +5,7 @@
     "title": "Receba em até 4h"
   },
   "installments": {
-    "show": false,
+    "show": true,
     "text": "",
     "title": "Parcele até 12x"
   },
@@ -14,7 +14,7 @@
     "text": ""
   },
   "promo": {
-    "show": false,
+    "show": true,
     "text": "",
     "title": "Embalagem discreta"
   }
