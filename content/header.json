@@ -9,6 +9,10 @@
       {
         "title": "Sobre nós",
         "link": "/pages/sobre-nos"
+      },
+      {
+        "title": "Blog",
+        "link": "https://sensacoessex.com.br/blog"
       }
     ],
     "phone_wpp": true,
