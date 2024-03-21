@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.f79a7bf0ecca247abf170ab90bc8e8c0.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.e89b0759a131e79744d9bdbb42c85497.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.3e3b4984007826d2a0da9b31b2f88777.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.cc325dcaf526d3af3013c4b60e4b3e9c.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.acc0ccd1fdd7278a6e71b9c32851da80.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Sensações Sex Shop - Sexy Shop Ibirité",
+  "short_name": "Sensações Sex Shop",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Sensações Sex Shop é uma loja virtual de cosméticos sensuais desde 2015 com Escritório localizado no bairro Palmeiras/Ibirité-MG.\nProdutos eróticos selecionados para atender ao seu momento de prazer!\nSeu sexy shop na palma da mão com total sigilo, discrição e entrega rápida!\nTrabalhamos com produtos selecionados para que vocês tenham em mãos as melhores Sensações.\nTodos os nossos produtos são a pronta entrega para você ter o prazer hoje mesmo!",
+  "background_color": "#eddfdf",
+  "theme_color": "#ff0000"
+}
